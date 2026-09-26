@@ -45,7 +45,6 @@ On Windows, activate the environment with `.venv\Scripts\activate`.
 
 The script needs a network connection the first time it asks FastF1 for the 2026 calendar. Race data for rounds 1–15 is already saved in `cache/weekends_2026.json`, so the table below should match if you keep that file.
 
-Do not upload or copy the `.venv` folder. Each machine should create its own.
 
 ## Result
 
